@@ -1,0 +1,17 @@
+[
+	{
+		"name": "javafx.application.Application",
+		"allDeclaredMethods": true,
+		"allDeclaredConstructors": true
+	},
+	{
+		"name": "com.arcticsoft.tiledrawing.TileBasedDrawing",
+		"allDeclaredMethods": true,
+		"allDeclaredConstructors": true
+	},
+	{
+		"name": "com.sun.javafx.tk.quantum.QuantumToolkit",
+		"allDeclaredMethods": true,
+		"allDeclaredConstructors": true
+	}
+]

@@ -21,6 +21,10 @@ public class TileBasedDrawing extends Application {
 	private final File mapFile = new File("map.txt");
 	private boolean isDragging = false;
 
+	public static void main(String[] args) {
+		launch(args);
+	}
+	
 	@Override
 	public void start(Stage stage) {
 		loadMap();
